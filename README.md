@@ -8,3 +8,5 @@ https://www.mckinsey.com/solutions
 https://www.bain.com/vector-digital/advanced-analytics/
 
 https://research.fb.com/teams/core-data-science/
+
+https://www.shopify.com/blog/7365564-32-key-performance-indicators-kpis-for-ecommerce
