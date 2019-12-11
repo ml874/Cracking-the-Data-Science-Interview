@@ -25,7 +25,11 @@ Welcome to the Cracking the Data Science Interview Github page. Here you will fi
 
 - [Leetcode (Over 1350 Qustions To Practice Coding)](https://leetcode.com)
 
+- [HackerRank (Coding)](https://www.hackerrank.com/home?utm_expid=.2u09ecQTSny1HV02SEVoCg.1&utm_referrer=https%3A%2F%2Fwww.google.com%2F)
+
 - [SQLZoo (Place to Practice SQL)](https://sqlzoo.net)
+
+
 
 
 
@@ -41,6 +45,8 @@ Welcome to the Cracking the Data Science Interview Github page. Here you will fi
 
 ### Probability
 - [Probability Cheatsheet (PDF)](http://www.wzchen.com/s/probability_cheatsheet.pdf), [(Github Repo)](https://github.com/wzchen/probability_cheatsheet)
+
+- [Basics of Probability for Data Science explained with examples in R (Analytics Vidhya)](https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/?source=post_page-----2db4f651bd63----------------------)
 
 
 ### Linear Algebra
@@ -72,6 +78,8 @@ Welcome to the Cracking the Data Science Interview Github page. Here you will fi
 ## Machine Learning
 
 - [A Tour of Machine Learning Algorithms (Blog)](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+
+- [41 Essential Machine Learning Interview Questions (Blog)](https://www.springboard.com/blog/machine-learning-interview-questions/?source=post_page-----2db4f651bd63----------------------)
 ### Supservised Learning Algorithms
 ### Unupservised Learning Algorithms
 ### Reinforcement Learning Algorithms
@@ -110,4 +118,6 @@ Welcome to the Cracking the Data Science Interview Github page. Here you will fi
 # Blogs
 
 - [Machine Learning Mastery](https://machinelearningmastery.com)
+
+- [GeeksforGeeks](https://www.geeksforgeeks.org)
 
