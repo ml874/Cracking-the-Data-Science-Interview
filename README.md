@@ -11,7 +11,7 @@ Welcome to the Cracking the Data Science Interview Github page. Here you will fi
 
 - [How To Learn Data Science If You’re Broke (Towards Data Science)](https://towardsdatascience.com/how-to-learn-data-science-if-youre-broke-7ecc408b53c7)
 
-- [Data Science Interview Questions (PDF)](https://rstudio-pubs static.s3.amazonaws.com/172473_91262a8a4188445a8b5e81d5d31c7731.html)
+- [Data Science Interview Questions (PDF)](https://rstudio-pubs-static.s3.amazonaws.com/172473_91262a8a4188445a8b5e81d5d31c7731.html)
 
 - [120 Data Science Interview Questions](https://github.com/kojino/120-Data-Science-Interview-Questions)
 
