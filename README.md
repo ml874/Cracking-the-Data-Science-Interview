@@ -1,5 +1,5 @@
 # Cracking the Data Science Interview
-Welcome to the Cracking the Data Science Interview Github page. Here you will find links and tutorials to blog posts, code snippets, interview preperation links and resources, data science case studies, and more! Have fun!
+Welcome to the *Cracking the Data Science Interview* Github page. Here you will find data science related links, tutorials, blog posts, code snippets, interview preparation, case studies, and more! Have fun!
 
 
 # Data Science Interview Preparation Map
@@ -114,6 +114,8 @@ Welcome to the Cracking the Data Science Interview Github page. Here you will fi
 - [Simple Reinforcement Learning Methods to Learn CartPole (Blog)](http://kvfrans.com/simple-algoritms-for-solving-cartpole/)
 
 - [An introduction to Policy Gradients with Cartpole and Doom (freeCodeCamp)](https://www.freecodecamp.org/news/an-introduction-to-policy-gradients-with-cartpole-and-doom-495b5ef2207f/)
+
+- [Implementation of Reinforcement Learning Algorithms (Github Repo)](https://github.com/dennybritz/reinforcement-learning)
 
 # Miscellaneous
 
