@@ -100,6 +100,8 @@ Welcome to the Cracking the Data Science Interview Github page. Here you will fi
 
 - [Introduction to autoencoders.](https://www.jeremyjordan.me/autoencoders/)
 
+- [An Intuitive Introduction to Generative Adversarial Networks](http://blog.kaggle.com/2018/01/18/an-intuitive-introduction-to-generative-adversarial-networks/)
+
 
 ### Reinforcement Learning Algorithms
 
@@ -110,6 +112,20 @@ Welcome to the Cracking the Data Science Interview Github page. Here you will fi
 - [Simple Reinforcement Learning Methods to Learn CartPole (Blog)](http://kvfrans.com/simple-algoritms-for-solving-cartpole/)
 
 - [An introduction to Policy Gradients with Cartpole and Doom (freeCodeCamp)](https://www.freecodecamp.org/news/an-introduction-to-policy-gradients-with-cartpole-and-doom-495b5ef2207f/)
+
+# Miscellaneous
+
+- [A Gentle Introduction To Graph Theory](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
+
+- [How to get started with machine learning on graphs](https://medium.com/octavian-ai/how-to-get-started-with-machine-learning-on-graphs-7f0795c83763)
+
+- [Solving the Knapsack Problem with Dynamic Programming](https://dev.to/downey/solving-the-knapsack-problem-with-dynamic-programming-4hce)
+
+- [An Overview of Monte Carlo Methods](https://towardsdatascience.com/an-overview-of-monte-carlo-methods-675384eb1694)
+
+- [Introductory Guide on Linear Programming](https://www.analyticsvidhya.com/blog/2017/02/lintroductory-guide-on-linear-programming-explained-in-simple-english/)
+
+- [ARIMA Models](http://www.forecastingsolutions.com/arima.html)
 
 # Product 
 - [Key Performance Indicators](https://www.shopify.com/blog/7365564-32-key-performance-indicators-kpis-for-ecommerce)
