@@ -2,7 +2,7 @@
 
 ![Cover Page](ctdsi_coverpage.png)
 
-Welcome to the *Cracking the Data Science Interview* Github page. Here you will find data science related links, tutorials, blog posts, code snippets, interview preparation, case studies, and more! Have fun!
+Welcome to the *Cracking the Data Science Interview* Github page. Here you will find data science related links, tutorials, blog posts, code snippets, interview prep material, case studies, and more! Have fun!
 
 
 # Data Science Interview Preparation Map
@@ -72,6 +72,13 @@ Welcome to the *Cracking the Data Science Interview* Github page. Here you will 
 - [Choosing The Right Database (Towards Data Science)](https://towardsdatascience.com/choosing-the-right-database-c45cd3a28f77)
 ### SQL
 - [How To Ace Data Science Interviews: SQL (Towards Data Science)](https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433)
+
+## Data Wrangling
+- [Fundamental Techniques of Feature Engineering for Machine Learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
+
+- [The Ultimate Guide to Data Cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
+
+- 
 
 
 ## Machine Learning
@@ -159,6 +166,8 @@ Welcome to the *Cracking the Data Science Interview* Github page. Here you will 
 
 - [Deep Learning](http://www.deeplearningbook.org)
 
+- [Practical Statistics for Data Scientists: 50 Essential Concepts](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential-ebook/dp/B071NVDFD6/ref=pd_sim_351_1/147-3762810-2360818?_encoding=UTF8&pd_rd_i=B071NVDFD6&pd_rd_r=52496a3c-32d4-4d5c-a873-0b832ff9b0a4&pd_rd_w=FohrU&pd_rd_wg=lIxdZ&pf_rd_p=04d27813-a1f2-4e7b-a32b-b5ab374ce3f9&pf_rd_r=NWTQ82150B8GMD6P43DD&psc=1&refRID=NWTQ82150B8GMD6P43DD)
+
 # Blogs
 
 - [Machine Learning Mastery](https://machinelearningmastery.com)
@@ -166,4 +175,9 @@ Welcome to the *Cracking the Data Science Interview* Github page. Here you will 
 - [GeeksforGeeks](https://www.geeksforgeeks.org)
 
 - [No Free Hunch- The Official Blog of Kaggle.com](http://blog.kaggle.com)
+
+- [Towards Data Science](https://towardsdatascience.com)
+
+# Courses
+- CS 4780- Machine Learning for Intelligent Systems (Cornell) | [Homepage](https://www.cs.cornell.edu/courses/cs4780/2018fa/), [Video Lectures](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS), [Written Assignments](https://www.dropbox.com/sh/f865fu9a4yv8j9h/AAB7RTGXr53eivfwcdn2SPu5a?dl=0&m=)
 
