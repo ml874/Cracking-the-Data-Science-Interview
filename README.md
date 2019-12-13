@@ -29,6 +29,8 @@ Welcome to the Cracking the Data Science Interview Github page. Here you will fi
 
 - [SQLZoo (Place to Practice SQL)](https://sqlzoo.net)
 
+- [SQLCourse- Interactive Online SQL Training](http://www.sqlcourse.com)
+
 
 # Data Science Interview Prep Material
 
