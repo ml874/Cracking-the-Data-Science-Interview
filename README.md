@@ -1,4 +1,7 @@
 # Cracking the Data Science Interview
+
+![alt text](http://url/to/img.png)
+
 Welcome to the *Cracking the Data Science Interview* Github page. Here you will find data science related links, tutorials, blog posts, code snippets, interview preparation, case studies, and more! Have fun!
 
 
