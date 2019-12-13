@@ -30,10 +30,6 @@ Welcome to the Cracking the Data Science Interview Github page. Here you will fi
 - [SQLZoo (Place to Practice SQL)](https://sqlzoo.net)
 
 
-
-
-
-
 # Data Science Interview Prep Material
 
 ## Mathematical Prequisites
@@ -55,8 +51,6 @@ Welcome to the Cracking the Data Science Interview Github page. Here you will fi
 - [No Bullshit Guide to Linear ALgebra- Linear algebra explained in four pages (PDF)](https://www.souravsengupta.com/cds2016/lectures/Savov_Notes.pdf)
 
 ## Computer Science
-
-
 
 ### Data Structures
 - [A Data Scientist’s Guide to Data Structures & Algorithms, Part 1 (Towards Data Science)](https://towardsdatascience.com/a-data-scientists-guide-to-data-structures-algorithms-1176395015a0)
@@ -81,7 +75,32 @@ Welcome to the Cracking the Data Science Interview Github page. Here you will fi
 
 - [41 Essential Machine Learning Interview Questions (Blog)](https://www.springboard.com/blog/machine-learning-interview-questions/?source=post_page-----2db4f651bd63----------------------)
 ### Supservised Learning Algorithms
+
+- [Linear Regression — Detailed View](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86)
+
+- [7 Regression Techniques you should know!](https://www.analyticsvidhya.com/blog/2015/08/comprehensive-guide-regression/)
+
+- [Naive Bayes Classification — Theory](https://medium.com/machine-learning-101/chapter-1-supervised-learning-and-naive-bayes-classification-part-1-theory-8b9e361897d5)
+
+- [SVM (Support Vector Machine) — Theory](https://medium.com/machine-learning-101/chapter-2-svm-support-vector-machine-theory-f0812effc72)
+
+- [Decision Trees - Explained, Demystified and Simplified](https://adityashrm21.github.io/Decision-Trees/)
+
+- [An Implementation and Explanation of the Random Forest in Python](https://towardsdatascience.com/an-implementation-and-explanation-of-the-random-forest-in-python-77bf308a9b76)
+
+- [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
+
 ### Unupservised Learning Algorithms
+
+- [Unsupervised Learning and Data Clustering](https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a)
+
+- [Understanding K-means Clustering in Machine Learning](https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1)
+
+- [Hierarchical Clustering](https://www.saedsayad.com/clustering_hierarchical.htm)
+
+- [Introduction to autoencoders.](https://www.jeremyjordan.me/autoencoders/)
+
+
 ### Reinforcement Learning Algorithms
 
 - [Applications of Reinforcement Learning in Real World (Towards Data Science)](https://towardsdatascience.com/applications-of-reinforcement-learning-in-real-world-1a94955bcd12)
@@ -115,9 +134,13 @@ Welcome to the Cracking the Data Science Interview Github page. Here you will fi
 
 - [The Hundred-Page Machine Learning Book ](https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X/ref=pd_lutyp_crtyp_simh_1_7?_encoding=UTF8&pd_rd_i=199957950X&pd_rd_r=fbee59df-96ce-45b6-a41d-dcb9a769ad94&pd_rd_w=Dpj0r&pd_rd_wg=EokMX&pf_rd_p=11bf186d-590b-449a-8161-5414a5d28305&pf_rd_r=X99FPRSYC7DW3CXYJHCK&psc=1&refRID=X99FPRSYC7DW3CXYJHCK)
 
+- [Deep Learning](http://www.deeplearningbook.org)
+
 # Blogs
 
 - [Machine Learning Mastery](https://machinelearningmastery.com)
 
 - [GeeksforGeeks](https://www.geeksforgeeks.org)
+
+- [No Free Hunch- The Official Blog of Kaggle.com](http://blog.kaggle.com)
 
