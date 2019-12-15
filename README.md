@@ -78,7 +78,22 @@ Welcome to the *Cracking the Data Science Interview* Github page. Here you will 
 
 - [The Ultimate Guide to Data Cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
 
-- 
+# Python Packages/Libraries
+
+- [Pandas](https://pandas.pydata.org/)
+
+- [NumPy](http://www.numpy.org/)
+
+- [SciPy](https://www.scipy.org/index.html)
+
+- [Scikit-learn](https://scikit-learn.org/stable/)
+
+- [Statsmodels](http://www.statsmodels.org/stable/index.html#)
+
+- [Matplotlib](http://www.statsmodels.org/stable/index.html#)
+
+
+
 
 
 ## Machine Learning
@@ -143,7 +158,6 @@ Welcome to the *Cracking the Data Science Interview* Github page. Here you will 
 
 # Product 
 - [Key Performance Indicators](https://www.shopify.com/blog/7365564-32-key-performance-indicators-kpis-for-ecommerce)
-
 
 
 # Data Science Case Studies
