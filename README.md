@@ -1,6 +1,6 @@
 # Cracking the Data Science Interview
 
-![Cover Page](ctdsi_coverpage.png)
+![Cover Page](ctdsi_coverpage.png/style=centerme)
 
 Welcome to the *Cracking the Data Science Interview* Github page. Here you will find data science related links, tutorials, blog posts, code snippets, interview prep material, case studies, and more! Have fun!
 
@@ -167,6 +167,8 @@ Welcome to the *Cracking the Data Science Interview* Github page. Here you will 
 - [Deep Learning](http://www.deeplearningbook.org)
 
 - [Practical Statistics for Data Scientists: 50 Essential Concepts](https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential-ebook/dp/B071NVDFD6/ref=pd_sim_351_1/147-3762810-2360818?_encoding=UTF8&pd_rd_i=B071NVDFD6&pd_rd_r=52496a3c-32d4-4d5c-a873-0b832ff9b0a4&pd_rd_w=FohrU&pd_rd_wg=lIxdZ&pf_rd_p=04d27813-a1f2-4e7b-a32b-b5ab374ce3f9&pf_rd_r=NWTQ82150B8GMD6P43DD&psc=1&refRID=NWTQ82150B8GMD6P43DD)
+
+- [Introduction to Algorithms](https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844)
 
 # Blogs
 
