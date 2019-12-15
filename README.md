@@ -1,6 +1,6 @@
 # Cracking the Data Science Interview
 
-![Cover Page](ctdsi_coverpage.png/style=centerme)
+![Cover Page](ctdsi_coverpage.png)
 
 Welcome to the *Cracking the Data Science Interview* Github page. Here you will find data science related links, tutorials, blog posts, code snippets, interview prep material, case studies, and more! Have fun!
 
