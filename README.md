@@ -73,12 +73,7 @@ Welcome to the *Cracking the Data Science Interview* Github page. Here you will 
 ### SQL
 - [How To Ace Data Science Interviews: SQL (Towards Data Science)](https://towardsdatascience.com/how-to-ace-data-science-interviews-sql-b71de212e433)
 
-## Data Wrangling
-- [Fundamental Techniques of Feature Engineering for Machine Learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
-
-- [The Ultimate Guide to Data Cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
-
-# Python Packages/Libraries
+### Python Packages/Libraries
 
 - [Pandas](https://pandas.pydata.org/)
 
@@ -91,6 +86,13 @@ Welcome to the *Cracking the Data Science Interview* Github page. Here you will 
 - [Statsmodels](http://www.statsmodels.org/stable/index.html#)
 
 - [Matplotlib](http://www.statsmodels.org/stable/index.html#)
+
+## Data Wrangling
+- [Fundamental Techniques of Feature Engineering for Machine Learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
+
+- [The Ultimate Guide to Data Cleaning](https://towardsdatascience.com/the-ultimate-guide-to-data-cleaning-3969843991d4)
+
+
 
 
 
