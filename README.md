@@ -85,7 +85,13 @@ Welcome to the *Cracking the Data Science Interview* Github page. Here you will 
 
 - [Statsmodels](http://www.statsmodels.org/stable/index.html#)
 
+- [PySpark](https://spark.apache.org/docs/latest/api/python/index.html)
+
 - [Matplotlib](http://www.statsmodels.org/stable/index.html#)
+
+- [IPython](http://ipython.org)
+
+- [SymPy](https://www.sympy.org/en/index.html)
 
 ## Data Wrangling
 - [Fundamental Techniques of Feature Engineering for Machine Learning](https://towardsdatascience.com/feature-engineering-for-machine-learning-3a5e293a5114)
