@@ -49,6 +49,8 @@ Welcome to the *Cracking the Data Science Interview* Github page. Here you will 
 
 - [Basics of Probability for Data Science explained with examples in R (Analytics Vidhya)](https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/?source=post_page-----2db4f651bd63----------------------)
 
+- [What is an intuitive explanation of Bayes' Rule? (Quora)](https://www.quora.com/What-is-an-intuitive-explanation-of-Bayes-Rule)
+
 
 ### Linear Algebra
 - [Linear Algebra Cheat Sheet for Deep Learning (Towards Data Science)](https://towardsdatascience.com/linear-algebra-cheat-sheet-for-deep-learning-cd67aba4526c)
@@ -125,6 +127,8 @@ Welcome to the *Cracking the Data Science Interview* Github page. Here you will 
 
 - [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
 
+- [A Gentle Introduction to XGBoost for Applied Machine Learning](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
+
 ### Unupservised Learning Algorithms
 
 - [Unsupervised Learning and Data Clustering](https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a)
@@ -133,7 +137,7 @@ Welcome to the *Cracking the Data Science Interview* Github page. Here you will 
 
 - [Hierarchical Clustering](https://www.saedsayad.com/clustering_hierarchical.htm)
 
-- [Introduction to autoencoders.](https://www.jeremyjordan.me/autoencoders/)
+- [Introduction to Autoencoders](https://www.jeremyjordan.me/autoencoders/)
 
 - [An Intuitive Introduction to Generative Adversarial Networks](http://blog.kaggle.com/2018/01/18/an-intuitive-introduction-to-generative-adversarial-networks/)
 
@@ -201,6 +205,8 @@ Welcome to the *Cracking the Data Science Interview* Github page. Here you will 
 - [No Free Hunch- The Official Blog of Kaggle.com](http://blog.kaggle.com)
 
 - [Towards Data Science](https://towardsdatascience.com)
+
+- [The Art of Data Science](https://www.quora.com/q/art-of-data-science)
 
 # Courses
 - CS 4780- Machine Learning for Intelligent Systems (Cornell) | [Homepage](https://www.cs.cornell.edu/courses/cs4780/2018fa/), [Video Lectures](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS), [Written Assignments](https://www.dropbox.com/sh/f865fu9a4yv8j9h/AAB7RTGXr53eivfwcdn2SPu5a?dl=0&m=)
