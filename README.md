@@ -111,7 +111,7 @@ Welcome to the *Cracking the Data Science Interview* Github page. Here you will 
 - [A Tour of Machine Learning Algorithms (Blog)](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
 - [41 Essential Machine Learning Interview Questions (Blog)](https://www.springboard.com/blog/machine-learning-interview-questions/?source=post_page-----2db4f651bd63----------------------)
-### Supservised Learning Algorithms
+### Supervised Learning Algorithms
 
 - [Linear Regression — Detailed View](https://towardsdatascience.com/linear-regression-detailed-view-ea73175f6e86)
 
@@ -129,7 +129,7 @@ Welcome to the *Cracking the Data Science Interview* Github page. Here you will 
 
 - [A Gentle Introduction to XGBoost for Applied Machine Learning](https://machinelearningmastery.com/gentle-introduction-xgboost-applied-machine-learning/)
 
-### Unupservised Learning Algorithms
+### Unsupervised Learning Algorithms
 
 - [Unsupervised Learning and Data Clustering](https://towardsdatascience.com/unsupervised-learning-and-data-clustering-eeecb78b422a)
 
